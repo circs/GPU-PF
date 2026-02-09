@@ -21,7 +21,7 @@ There are three folders containing separate codes with different models. Up unti
 0. Generating a new SSH key and adding it to the ssh-agent if you haven't, you can refer to the GitHub documentation: [Connect with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 1. Clone the Repo:
 You can clone this private repository into your local machine using your GitHub account.
-`git clone https://github.com/circs/ICME_NASA.git`
+`git clone https://github.com/circs/GPU-PF.git`
 2. Navigate into the Directory:
 After successful cloning, navigate into the ICME_NASA directory.
 cd GPU-PF
