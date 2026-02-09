@@ -27,14 +27,6 @@ In the 2D_directional_GPU folder, you’ll find:
 The video below depicts the contours of the phase fields for $\phi=0$ from both the uploaded code and PRISMS-PF, using the implementations and parameters from [PRISMS-PF/alloy-solidification](https://github.com/prisms-center/phaseField/tree/master/applications/alloySolidification). The contours are nearly identical. This close similarity provides a solid benchmark for our research code.
 
 
-https://github.com/circs/ICME_NASA/assets/16184398/0e3c4432-bf7c-49bd-a01c-21155717ac84
-
-
-The video below depicts the contours of the phase fields for $\phi=0$ from both the uploaded code and PRISMS-PF, using the implementations and parameters from DSI-R on-board experiment(SCN-0.46wt%Camphor)
-
-https://github.com/circs/ICME_NASA/assets/16184398/f164b0d5-d103-4964-8faa-266513b32dde
-
-
 
 ## Getting Started
 
