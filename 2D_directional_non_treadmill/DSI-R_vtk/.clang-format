@@ -1,0 +1,13 @@
+BasedOnStyle: Google
+Language: Cpp
+ColumnLimit: 0  # Disable line breaking for long lines
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+BreakBeforeBraces: Allman
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortLambdasOnASingleLine: Empty
+PointerAlignment: Left
+SpacesBeforeTrailingComments: 1
+SpaceBeforeParens: ControlStatements
+AlwaysBreakTemplateDeclarations: Yes

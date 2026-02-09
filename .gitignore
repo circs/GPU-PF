@@ -1,0 +1,17 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Sublime Text project and workspace files
+*.sublime-project
+*.sublime-workspace
+
+# Optional: Ignore other common editor/project files
+.vscode/
+*.pyc
+__pycache__/
+
+# Ignore build folder
+/build

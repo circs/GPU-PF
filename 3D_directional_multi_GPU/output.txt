@@ -1,0 +1,48 @@
+The random seed is 1690246170
+Run with 4 DEVICES
+==============================================================
+Device Name 	 Tesla V100-SXM2-32GB 
+Device Index	 0 
+==============================================================
+Total Global Memory                  	 33281152 KB
+Shared memory available per block    	 48 KB
+Number of registers per thread block 	 65536
+Warp size in threads             	 32
+Memory Pitch                     	 2147483647 bytes
+Maximum threads per block        	 1024
+Maximum Thread Dimension (block) 	 1024 * 1024 * 64
+Maximum Thread Dimension (grid)  	 2147483647 * 65535 * 65535
+Total constant memory            	 65536 bytes
+Compute capability		    		 7.0
+Clock rate                       	 1530000 KHz
+Texture Alignment                	 512 bytes
+Device Overlap                   	 Allowed
+Number of Multi processors       	 80
+==============================================================
+> Direct peer access from GPU0 to GPU1: enabled 
+> Direct peer access from GPU1 to GPU0: enabled 
+> Direct peer access from GPU1 to GPU2: enabled 
+> Direct peer access from GPU2 to GPU1: enabled 
+> Direct peer access from GPU2 to GPU3: enabled 
+> Direct peer access from GPU3 to GPU2: enabled 
+> GPU0: Tesla V100-SXM2-32GB support unified addressing
+> GPU1: Tesla V100-SXM2-32GB support unified addressing
+> GPU2: Tesla V100-SXM2-32GB support unified addressing
+> GPU3: Tesla V100-SXM2-32GB support unified addressing
+
+Initializing fields...
+Writing file *DSIR_v0.75_D270_G12_k010_V30_dx12_W165.0.* ... written.
+
+ The time limit for this run is 23.055556 hour(s).
+Writing file *DSIR_v0.75_D270_G12_k010_V30_dx12_W165.1.* ... written.
+Writing file *DSIR_v0.75_D270_G12_k010_V30_dx12_W165.2.* ... written.
+Writing file *DSIR_v0.75_D270_G12_k010_V30_dx12_W165.3.* ... written.
+Writing file *DSIR_v0.75_D270_G12_k010_V30_dx12_W165.4.* ... written.
+Writing file *DSIR_v0.75_D270_G12_k010_V30_dx12_W165.5.* ... written.
+Writing file *DSIR_v0.75_D270_G12_k010_V30_dx12_W165.6.* ... written.
+Writing file *DSIR_v0.75_D270_G12_k010_V30_dx12_W165.7.* ... written.
+Writing file *DSIR_v0.75_D270_G12_k010_V30_dx12_W165.8.* ... written.
+Writing file *DSIR_v0.75_D270_G12_k010_V30_dx12_W165.9.* ... written.
+Writing file *DSIR_v0.75_D270_G12_k010_V30_dx12_W165.10.* ... written.
+Writing file *DSIR_v0.75_D270_G12_k010_V30_dx12_W165.11.* ... written.
+Writing file *DSIR_v0.75_D270_G12_k010_V30_dx12_W165.12.* ... written.

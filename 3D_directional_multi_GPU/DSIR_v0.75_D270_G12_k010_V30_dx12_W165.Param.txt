@@ -1,0 +1,112 @@
+----------------------------------------
+         SIMULATION PARAMETERS
+----------------------------------------
+ Vp    = 3 microns/s
+ G     = 1206.67 K/m
+
+ m     = 1.365 K/UnitC
+ c0    = 0.92 UnitC
+ D     = 270 microns^2/s
+ Gamma = 6.478e-08 Km
+ k     = 0.1
+ Eps4  = 0.011
+ Anisotropy rotation
+ alpha1 = 0, 	 alpha2 = 0 degrees
+ beta1  = 0, 	 beta2  = 0 degrees
+ gamma1 = 0, 	 gamma2 = 0 degrees
+
+ lT    = 9418.5 microns
+ lD    = 90 microns
+ d0    = 0.00573163 microns
+-------------- Sample info --------------
+ Tcold            = 304.6 K 
+ Thot             = 340.8 K 
+ Sample length    = 30000 microns 
+ Gradient         = 12.0667 K/cm 
+ Tl0              = 330.85 K 
+ Ts0              = 319.548 K 
+ Dthermal         = 309000 microns^2/s 
+----------------------------------------
+-------------- DIMENSIONS --------------
+ Dimension/X = 1155.29 microns
+ Dimension/Y = 497.07 microns
+ Dimension/Z = 497.07 microns
+ Total time  = 7200 seconds
+------------ DIMENSIONLESS -------------
+ W/d0 = 165
+ W    = 0.945719 microns
+ Tau0 = 0.302744 seconds
+----------------------------------------
+ D          = 91.3935
+ Vp         = 0.960362
+ lD         = 95.1657
+ Lambda     = 145.841
+ Total time = 23783.5 
+--------- INITIAL CONDITIONS -----------
+Delta_0    = 0
+x_int_0    = 845.918 W
+           = 704.931 dx
+           = 800 microns
+Initial random perturbation 
+Amplitude  = 1 dx
+------------ COMPUTATIONAL -------------
+ Nx+2 = 1020
+ Ny+2 = 440
+ Nz+2 = 440
+ dx = 1.2
+    = 1.13486 microns
+ dt = 0.00236206
+    = 0.000715099 seconds
+ Boundary Conditions /y : Periodic
+ Boundary Conditions /z : Periodic
+----------------- GPU ------------------
+***** Device 0 *****
+DEV_Nx + 2 is 257
+Block size /X = 1
+Block size /Y = 22
+Block size /Z = 22
+Thread/Block  = 484
+Number of Blocks /X = 257
+Number of Blocks /Y = 20
+Number of Blocks /Z = 20
+Number of Blocks    = 102800
+***** Device 1 *****
+DEV_Nx + 2 is 257
+Block size /X = 1
+Block size /Y = 22
+Block size /Z = 22
+Thread/Block  = 484
+Number of Blocks /X = 257
+Number of Blocks /Y = 20
+Number of Blocks /Z = 20
+Number of Blocks    = 102800
+***** Device 2 *****
+DEV_Nx + 2 is 256
+Block size /X = 8
+Block size /Y = 8
+Block size /Z = 8
+Thread/Block  = 512
+Number of Blocks /X = 32
+Number of Blocks /Y = 55
+Number of Blocks /Z = 55
+Number of Blocks    = 96800
+***** Device 3 *****
+DEV_Nx + 2 is 256
+Block size /X = 8
+Block size /Y = 8
+Block size /Z = 8
+Thread/Block  = 512
+Number of Blocks /X = 32
+Number of Blocks /Y = 55
+Number of Blocks /Z = 55
+Number of Blocks    = 96800
+----------------------------------------
+ Time step input dt = 1
+                 dt > dx^2/(6*D) ...
+ Adjust =>       dt = 0.00236206
+ Number of iterations: 10068986
+ Output movie files (compressed) every 0 iterations
+----------------------------------------
+Pull-back : Tip frame 
+----------------------------------------
+
